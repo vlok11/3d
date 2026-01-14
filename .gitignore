@@ -1,0 +1,9 @@
+node_modules
+dist
+.env
+.env.*
+*.log
+*.7z
+mcp.json
+a362c153cb323373/
+.windsurf*
